@@ -25,7 +25,7 @@ func PrintMatrix(matrix [ROWS][COLUMNS]rune) {
             fmt.Printf("%c ", matrix[i][j])
         }
         fmt.Println("7")
-    }
+    } 
     fmt.Print(" ")
     for i := 0; i < ROWS+3; i++ {
         fmt.Print("7")
