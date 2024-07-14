@@ -74,3 +74,4 @@ func DropBlockOneRow(matrix *[ROWS][COLUMNS]rune, t *Tetromino, x int) {
         }
     }
 }
+ 
